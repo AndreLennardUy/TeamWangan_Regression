@@ -31,14 +31,19 @@ namespace Regression
                 }
                 else
                 {
-                    MessageBox.Show("Please Enter Age between 40 and 75", "Notice:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    MessageBox.Show("Please enter age between 40 and 75.", "Notice:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 }
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Please Enter Age And weight", "Error!:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Please enter Age And weight", "Error!:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
 
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
 
         }
     }
