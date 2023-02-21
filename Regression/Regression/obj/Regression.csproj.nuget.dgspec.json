@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {}
+    "C:\\Users\\adrian\\Source\\Repos\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {
+    "C:\\Users\\adrian\\Source\\Repos\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
+        "projectUniqueName": "C:\\Users\\adrian\\Source\\Repos\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
         "projectName": "Regression",
-        "projectPath": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
-        "packagesPath": "C:\\Users\\Andre Uy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\obj\\",
+        "projectPath": "C:\\Users\\adrian\\Source\\Repos\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
+        "packagesPath": "C:\\Users\\adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adrian\\Source\\Repos\\TeamWangan_Regression\\Regression\\Regression\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Andre Uy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
