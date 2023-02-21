@@ -89,7 +89,6 @@
             this.label4.Size = new System.Drawing.Size(186, 13);
             this.label4.TabIndex = 5;
             this.label4.Text = "Please enter age between 40 to 75.";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
