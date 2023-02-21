@@ -15,3 +15,20 @@ C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem
 C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.pdb
 C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.genruntimeconfig.cache
 C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\ref\Regression.dll
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\bin\Debug\net6.0-windows\Regression.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\bin\Debug\net6.0-windows\Regression.deps.json
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\bin\Debug\net6.0-windows\Regression.runtimeconfig.json
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\bin\Debug\net6.0-windows\Regression.dll
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\bin\Debug\net6.0-windows\Regression.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.csproj.AssemblyReference.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.Form1.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.csproj.GenerateResource.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.AssemblyInfoInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.AssemblyInfo.cs
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.dll
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\refint\Regression.dll
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\Regression.genruntimeconfig.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Activities\TeamWangan_Regression\Regression\Regression\obj\Debug\net6.0-windows\ref\Regression.dll

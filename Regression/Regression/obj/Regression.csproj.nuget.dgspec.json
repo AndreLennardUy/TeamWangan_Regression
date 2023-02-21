@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {}
+    "C:\\Users\\my pc\\Dropbox\\PC\\Documents\\BSCS\\CS - 3rd Year\\BSCS - 3 (Second Sem)\\Intelligence System 2\\Activities\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {
+    "C:\\Users\\my pc\\Dropbox\\PC\\Documents\\BSCS\\CS - 3rd Year\\BSCS - 3 (Second Sem)\\Intelligence System 2\\Activities\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
+        "projectUniqueName": "C:\\Users\\my pc\\Dropbox\\PC\\Documents\\BSCS\\CS - 3rd Year\\BSCS - 3 (Second Sem)\\Intelligence System 2\\Activities\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
         "projectName": "Regression",
-        "projectPath": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
-        "packagesPath": "C:\\Users\\Andre Uy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre Uy\\OneDrive - Cebu Institute of Technology University\\3rdYr2ndSem\\Intel System\\TeamWangan_Regression\\Regression\\Regression\\obj\\",
+        "projectPath": "C:\\Users\\my pc\\Dropbox\\PC\\Documents\\BSCS\\CS - 3rd Year\\BSCS - 3 (Second Sem)\\Intelligence System 2\\Activities\\TeamWangan_Regression\\Regression\\Regression\\Regression.csproj",
+        "packagesPath": "C:\\Users\\my pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\my pc\\Dropbox\\PC\\Documents\\BSCS\\CS - 3rd Year\\BSCS - 3 (Second Sem)\\Intelligence System 2\\Activities\\TeamWangan_Regression\\Regression\\Regression\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andre Uy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\my pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

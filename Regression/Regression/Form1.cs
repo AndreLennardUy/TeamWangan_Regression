@@ -13,18 +13,20 @@ namespace Regression
             TextBox inAge = (TextBox)ageIn;
             TextBox inWieght = (TextBox)weightIn;
             
-            
-            int a = 0;
-            int b = 0;
-            int ans = 0;
+            double weight = Double.Parse(inWieght.Text);
+            double age = Double.Parse(inAge.Text);
+
+            double a = 30.99410295;
+            double b1 = 0.861414686;
+            double b2 = 0.334859197;
+            double ans = a + ((b1 * age) + (b2 * weight));
 
             try
             {
-                int weight = Convert.ToInt32(inWieght.Text);
-                int age = Convert.ToInt32(inAge.Text);
+                
                 if (age >= 40 && age <= 75)
                 {
-
+                    
                     result.Text = ans.ToString();
                 }
                 else
