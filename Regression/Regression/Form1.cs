@@ -27,10 +27,8 @@ namespace Regression
 
             try
             {
-
                 if (age >= 40 && age <= 75)
                 {
-
                     result.Text = ans.ToString();
                 }
                 else
@@ -42,7 +40,6 @@ namespace Regression
             {
                 MessageBox.Show("Please enter Age And weight", "Error!:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
-
 
         }
     }
