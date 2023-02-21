@@ -12,7 +12,7 @@ namespace Regression
         {
             TextBox inAge = (TextBox)ageIn;
             TextBox inWieght = (TextBox)weightIn;
-            
+
             double weight = Double.Parse(inWieght.Text);
             double age = Double.Parse(inAge.Text);
 
@@ -23,10 +23,10 @@ namespace Regression
 
             try
             {
-                
+
                 if (age >= 40 && age <= 75)
                 {
-                    
+
                     result.Text = ans.ToString();
                 }
                 else
@@ -34,7 +34,7 @@ namespace Regression
                     MessageBox.Show("Please enter age between 40 and 75.", "Notice:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show("Please enter Age And weight", "Error!:", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
